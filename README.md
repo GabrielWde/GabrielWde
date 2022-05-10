@@ -1,6 +1,8 @@
 ## Bem vido ao meu perfil 👋
 ### 🌱 Estou aprendendo a programar do inicio
 - Meu nome é gabriel !
+- ![image](https://user-images.githubusercontent.com/105252190/167526458-85e94bda-acf2-425b-a113-95fd0a7764de.png)
+
 
  * ☺
 <div class="spotlight spotlight-v2" style="border-left: 4px solid #1b3a44;"><i class="puzzle-piece" style="float: left; margin-top: 7px; color: #1b3a43;"></i>
