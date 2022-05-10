@@ -1,4 +1,12 @@
-### Hi there 👋
+## Bem vido ao meu perfil 👋
+### 🌱 Estou aprendendo a programar
+- Meu nome é gabriel !
+
+
+
+
+
+
 
 <!--
 **GabrielWde/GabrielWde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
